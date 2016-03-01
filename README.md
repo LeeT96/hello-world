@@ -1,2 +1,5 @@
 # hello-world
-My hello world repository
+
+Hello, world!
+
+I lie HTML5, CSS3 and JS!
